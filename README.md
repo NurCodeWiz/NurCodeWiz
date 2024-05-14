@@ -1,3 +1,6 @@
+(![Github banner](https://github.com/jtruong97/jtruong97/assets/103168647/50fad09c-c9dc-419d-adc6-dad3b09ea511))
+
+
 ### Hi there 👋
 
 <!--
