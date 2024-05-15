@@ -11,10 +11,7 @@ I’m currently working on [Shopothalamus](https://shopothalamus.onrender.com/),
 When I'm not deep in code, you can find me smashing tennis balls, hiking up trails, or zooming around on my bike. These activities are my secret sauce for staying fit and having fun, and they give me the perfect excuse to hang out with nature and meet some awesome people along the way. Plus, it's always a good laugh when I try to avoid face-planting off my bike!
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> Let's connect! 
- <a href="mailto:ecz.ilknurunlu@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" style="width:20px;height:20px;">
-  Contact me via Gmail
-</a>
+  <a href='mailto:ecz.ilknurunlu@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
   <a href='https://www.linkedin.com/in/nur-unlu/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
   <a href='https://nurunluportfolio.onrender.com'><img src='https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139'/></a>
 
