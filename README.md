@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I'm Nur, a graduate of App Academy's software engineering program with a passion for healthcare technology. I spent 7 years as a pharmacist in Turkey, leading a hospital pharmacy department. This role taught me precision, teamwork, and innovation in patient care.
+I'm Nur, a graduate of App Academy's software engineering program with a passion for healthcare technology. I spent 6 years as a pharmacist in Turkey, leading a hospital pharmacy department. This role taught me precision, teamwork, and innovation in patient care.
 
 My fascination with problem-solving and innovation led me to switch careers. Witnessing how software can revolutionize healthcare—like programs that tailor medicine to individuals or predict illnesses—sparked my journey into software engineering. Now, I'm eager to apply my skills to innovative fields.
 I’m currently working on [Shopothalamus](https://shopothalamus.onrender.com/), a full-stack clone of 'Amazon' featuring smart products.
