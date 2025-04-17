@@ -3,11 +3,9 @@
 
 ### Hi there 👋
 
-I'm Nur, a software engineer with a passion for healthcare technology. I spent 6 years as a pharmacist in Turkey, leading a hospital pharmacy department. This role taught me precision, teamwork, and innovation in patient care.
+I'm Nur, a former pharmacist turned software engineer, now working as Chief of Staff at a robotics AI startup. I spent 6 years leading a hospital pharmacy department in Turkey before diving into tech. 
 
-My fascination with problem-solving and innovation led me to switch careers. Witnessing how software can revolutionize healthcare—like programs that tailor medicine to individuals or predict illnesses—sparked my journey into software engineering. Now, I'm eager to apply my skills to innovative fields.
-
-When I'm not deep in code, you can find me smashing tennis balls, hiking up trails, or zooming around on my bike. These activities are my secret sauce for staying fit and having fun, and they give me the perfect excuse to hang out with nature and meet some awesome people along the way. Plus, it's always a good laugh when I try to avoid face-planting off my bike!
+These days, I'm helping build the future of robotics while still holding onto my love for problem-solving. Outside of work, you'll probably find me on a tennis court, hiking trail, or biking! :)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> Let's connect! 
   <a href='mailto:ecz.ilknurunlu@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
